@@ -1,0 +1,48 @@
+body {
+    background-color: #d4f3ef;
+}
+
+hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 5%;
+}
+
+h1{
+    color: #63b7af;
+}
+
+h3, p{
+    color: #40bad5;
+}
+
+label{
+    color: #58b4ae;
+    font-size: 1.2em;
+}
+
+th {
+    color: #58b4ae;
+    font-size: 1.275em;
+    font-weight: bold;
+}
+
+.text {
+    color: #c060a1;
+    font-size: 1.2em;
+}
+
+li {
+    color: #c060a1;
+    font-size: 1.2em;
+}
+
+.info {
+    color: #c060a1;
+    font-size: 1.2em;
+}
+
+input, textarea {
+    background-color: #d4f3ef;
+}
